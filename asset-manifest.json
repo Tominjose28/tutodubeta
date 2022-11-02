@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tutodubeta/static/css/main.b5bee3d2.css",
-    "main.js": "/tutodubeta/static/js/main.45a17cce.js",
+    "main.js": "/tutodubeta/static/js/main.834f429a.js",
     "static/media/weatherStation.png": "/tutodubeta/static/media/weatherStation.c2c7df7a01eb8b921329.png",
     "static/media/weather.png": "/tutodubeta/static/media/weather.300d566905edb31ae731.png",
     "static/media/weather_1.svg": "/tutodubeta/static/media/weather_1.80dbfa0196e5869a3d3e379394c7a34e.svg",
@@ -19,10 +19,10 @@
     "static/media/clear_day.svg": "/tutodubeta/static/media/clear_day.f1148f358aa1e13bee23b6cf1b54bac7.svg",
     "index.html": "/tutodubeta/index.html",
     "main.b5bee3d2.css.map": "/tutodubeta/static/css/main.b5bee3d2.css.map",
-    "main.45a17cce.js.map": "/tutodubeta/static/js/main.45a17cce.js.map"
+    "main.834f429a.js.map": "/tutodubeta/static/js/main.834f429a.js.map"
   },
   "entrypoints": [
     "static/css/main.b5bee3d2.css",
-    "static/js/main.45a17cce.js"
+    "static/js/main.834f429a.js"
   ]
 }
