@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tutodubeta/static/css/main.3e68b7c1.css",
-    "main.js": "/tutodubeta/static/js/main.88f0d381.js",
+    "main.css": "/tutodubeta/static/css/main.27ce12c1.css",
+    "main.js": "/tutodubeta/static/js/main.689aab4d.js",
     "static/media/weatherStation.png": "/tutodubeta/static/media/weatherStation.c2c7df7a01eb8b921329.png",
     "static/media/weather.png": "/tutodubeta/static/media/weather.300d566905edb31ae731.png",
     "static/media/weather_1.svg": "/tutodubeta/static/media/weather_1.80dbfa0196e5869a3d3e379394c7a34e.svg",
@@ -18,11 +18,11 @@
     "static/media/barometer.svg": "/tutodubeta/static/media/barometer.aa0e319b556f30173ad6c048c7700730.svg",
     "static/media/clear_day.svg": "/tutodubeta/static/media/clear_day.f1148f358aa1e13bee23b6cf1b54bac7.svg",
     "index.html": "/tutodubeta/index.html",
-    "main.3e68b7c1.css.map": "/tutodubeta/static/css/main.3e68b7c1.css.map",
-    "main.88f0d381.js.map": "/tutodubeta/static/js/main.88f0d381.js.map"
+    "main.27ce12c1.css.map": "/tutodubeta/static/css/main.27ce12c1.css.map",
+    "main.689aab4d.js.map": "/tutodubeta/static/js/main.689aab4d.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e68b7c1.css",
-    "static/js/main.88f0d381.js"
+    "static/css/main.27ce12c1.css",
+    "static/js/main.689aab4d.js"
   ]
 }
