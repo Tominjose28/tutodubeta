@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/tutodubeta/static/css/main.b5bee3d2.css",
+    "main.js": "/tutodubeta/static/js/main.7bc52d37.js",
+    "static/media/weatherStation.png": "/tutodubeta/static/media/weatherStation.c2c7df7a01eb8b921329.png",
+    "static/media/weather.png": "/tutodubeta/static/media/weather.300d566905edb31ae731.png",
+    "static/media/weather_1.svg": "/tutodubeta/static/media/weather_1.80dbfa0196e5869a3d3e379394c7a34e.svg",
+    "static/media/logo.svg": "/tutodubeta/static/media/logo.fbb44f331e89731d3b4ca7c930841a4b.svg",
+    "static/media/haze.svg": "/tutodubeta/static/media/haze.275da0b4f1673d534224e0a26671c531.svg",
+    "static/media/windsock.svg": "/tutodubeta/static/media/windsock.a8a4d675cd8fb42e69fa413262f3a052.svg",
+    "static/media/uv_index.svg": "/tutodubeta/static/media/uv_index.984705ebade43c38ee35047047d2b602.svg",
+    "static/media/overcast.svg": "/tutodubeta/static/media/overcast.9c795617fe0b87acf926de4245ba34f4.svg",
+    "static/media/wind.svg": "/tutodubeta/static/media/wind.f65fbe9cb8b784f97b891fb56e11e37d.svg",
+    "static/media/humidity.svg": "/tutodubeta/static/media/humidity.764c599eb3217ae1e79e62a0310dc95a.svg",
+    "static/media/thermometer.svg": "/tutodubeta/static/media/thermometer.050919f99a2e91b11c4d984d6370b93b.svg",
+    "static/media/sunrise.svg": "/tutodubeta/static/media/sunrise.7bd9ac1ef5536646bd0fe926afdfb495.svg",
+    "static/media/sunset.svg": "/tutodubeta/static/media/sunset.6251769d5f3fd2b94bfa2571a1c12695.svg",
+    "static/media/barometer.svg": "/tutodubeta/static/media/barometer.aa0e319b556f30173ad6c048c7700730.svg",
+    "static/media/clear_day.svg": "/tutodubeta/static/media/clear_day.f1148f358aa1e13bee23b6cf1b54bac7.svg",
+    "index.html": "/tutodubeta/index.html",
+    "main.b5bee3d2.css.map": "/tutodubeta/static/css/main.b5bee3d2.css.map",
+    "main.7bc52d37.js.map": "/tutodubeta/static/js/main.7bc52d37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5bee3d2.css",
+    "static/js/main.7bc52d37.js"
+  ]
+}
